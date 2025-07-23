@@ -1,0 +1,6 @@
+services:
+  solid-demo:
+    build: .
+    container_name: solid-demo-app
+    ports:
+      - "8080:8080"
