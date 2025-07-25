@@ -68,7 +68,7 @@ A classe UserNotificationService depende da abstração Notifier, não das imple
 1. Clone o repositório:
 ```
 bash
-git clone https://github.com/seu-usuario/notificacao-solid.git
+git clone https://github.com/carolinaoliveirasilveira/solid-demo-.git
 ```
 2. Importe o projeto na sua IDE.
 
